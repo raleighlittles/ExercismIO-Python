@@ -1,2 +1,3 @@
-# ExercismIO-Python
-Annotated solutions to Exercism IO's Python challenges.
+# About
+
+Annotated solutions to selected Exercism IO's Python challenges.
